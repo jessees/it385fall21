@@ -15,4 +15,5 @@ def main():
     n2 = 4
     maximum = maxOfTwoNumber(n1, n2)
     print("maximum of", n1, "and",n2, "is", maximum)
+    
 main()
